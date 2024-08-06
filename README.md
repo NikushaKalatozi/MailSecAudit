@@ -24,6 +24,7 @@ Download MailSecAudit
 
 ```bash
   wget https://github.com/NikushaKalatozi/MailSecAudit.git
+  pip install dnspython
   cd MailSecAudit
   python3 spfdkimdmarc_checker.py domains.txt
 ```
